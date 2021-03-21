@@ -1,4 +1,7 @@
-### Hi there 👋
+VMC KAOS™ ~ JOGJA adalah vendor terpercaya untuk
+kebutuhan jasa sablon kaos distro. Kami
+juga telah melayani ribuan pelanggan dari
+seluruh Indonesia.
 
 <!--
 **vmckaos/vmckaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
